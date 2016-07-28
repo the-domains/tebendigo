@@ -1,0 +1,28 @@
+name: Tebendigo
+favicon: null
+layout_spectrum: 0.7518772652838379
+typography_spectrum: 0.37437907862477005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1771006730850786
+  lightness: 0.09892166941426694
+  saturation: 0.3504319421481341
+  rhythmicContrast: 0.06539195659570396
+purpose: []
